@@ -22,7 +22,7 @@
 
 ### 3. 電子門鎖內部架構
 <p align="center">
-<img src="https://github.com/explore23556/Electronic-Door-Lock/blob/main/%E9%9B%BB%E5%AD%90%E9%96%80%E9%8E%96_2.png"; width="50%";/>
+<img src="https://github.com/explore23556/Electronic-Door-Lock/blob/main/%E9%9B%BB%E5%AD%90%E9%96%80%E9%8E%96_3.png"; width="50%";/>
 </p>
 
 
