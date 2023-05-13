@@ -8,4 +8,4 @@
 ## 四、作品展示
 ###
 <p align="center">
-<img src="https://github.com/explore23556/RFID-Final-Project/blob/main/%E5%9C%96%E7%89%878.png"; width="60%";/>
+<img src="https://github.com/explore23556/Electronic-Door-Lock/blob/main/%E9%9B%BB%E5%AD%90%E9%96%80%E9%8E%96.png"; width="60%";/>
